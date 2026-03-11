@@ -1,12 +1,7 @@
-
 # Metin2Manager
 
 Ein moderner **Metin2 P‑Server Manager** als Desktop‑App.  
 Der Metin2Manager bündelt typische Server‑Admin‑Aufgaben in einer übersichtlichen Oberfläche und nimmt dir möglichst viel Handarbeit mit TXT‑Dateien und MySQL ab.
-
-https://www.virustotal.com/gui/file/175ae42b1074166888bc07917054e8b48225f935a8ce124d13d4113d030b6082?nocache=1
-https://mega.nz/file/W6wzjCBZ#gcszkBUqYMn1S9ri_EAd-Ap0-KCDRBPFixzMdNFgLHg
-
 
 ## Was ist das?
 
@@ -42,3 +37,9 @@ Es läuft als Electron‑App unter Windows/macOS und bietet dir eine zentrale Ob
 
 Kurz gesagt: **ein Verwaltungs‑Center für deinen Metin2‑P‑Server**, das dir viele wiederkehrende Aufgaben abnimmt und sie in eine moderne, schnelle Oberfläche packt.
 
+## Download
+
+| Typ            | Link        |
+| ------------- | ----------- |
+| Windows Installer | [Download](https://mega.nz/file/W6wzjCBZ#gcszkBUqYMn1S9ri_EAd-Ap0-KCDRBPFixzMdNFgLHg) |
+| VirusTotal    | [Bericht anzeigen](https://www.virustotal.com/gui/file/175ae42b1074166888bc07917054e8b48225f935a8ce124d13d4113d030b6082?nocache=1) |
